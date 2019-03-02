@@ -1,0 +1,40 @@
+{
+  "appName": "BoilerPlate",
+  "common": {
+    "email": "email",
+    "login": "Login",
+    "logIn": "Log In",
+    "logout": "Logout",
+    "logOut": "Log Out",
+    "password": "password",
+    "resetPassword": "Reset Password",
+    "settings": "Settings"
+  },
+  "navigators": {
+    "authenticatedNavigator": {
+      "developerOptions": "Dev Options",
+      "experimental": "Experimental",
+      "gatherings": "Gatherings",
+      "me": "Me"
+    },
+    "experimentalTabNavigator": {
+      "canvas": "Canvas",
+      "animations": "Animations",
+      "contacts": "Contacts",
+      "map": "Map",
+      "other": "Other"
+    }
+  },
+  "screens": {
+    "developerOptionsScreen": {
+      "mainText": "Here there be dragons...",
+      "resetOnboarding": "Reset Onboarding"
+    },
+    "otherScreen": {
+      "mainText": "Use this screen as a basis for your experiment!"
+    },
+    "resetPasswordScreen": {
+      "returnToLogin": "Return to Login"
+    }
+  }
+}

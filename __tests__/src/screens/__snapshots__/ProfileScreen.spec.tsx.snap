@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProfileScreen matches snapshot of shallow rendering 1`] = `
+<ProfileScreen
+  SessionStore={
+    Object {
+      "logout": [Function],
+    }
+  }
+  UserStore={
+    Object {
+      "currentUser": Object {},
+    }
+  }
+/>
+`;

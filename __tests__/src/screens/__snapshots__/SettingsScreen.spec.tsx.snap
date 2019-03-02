@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Settings Screen shallow rendering 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#F5FCFF",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  testID="SettingsScreenViewContainer"
+>
+  <Text
+    style={
+      Object {
+        "fontFamily": "Helvetica",
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+    testID="SettingsScreenText1"
+  >
+    Settings
+  </Text>
+</View>
+`;

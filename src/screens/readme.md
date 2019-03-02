@@ -1,0 +1,3 @@
+This is the bread and butter of the app and aligns with our goal to Maximize Code Reuse and write Cross Platform. Typically an app is made up of a variety of screens (or routes/scenes, depending on your preference). For each screen/route/scene you have in your routes.js file you’re likely going to have a screen file.
+
+These screens are essentially “smart” container component that handle all of the data fetching, interaction management, etc. The actual UI is delegated down to the various presentation components in the components directory. With that being said you should very rarely, if ever, have style information in “screen”. This allows them to stay hyper focused.
